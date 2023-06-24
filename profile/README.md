@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there we are FontFlex
+
+FontFlex is a Markdown editor. We are currently developing FontFlex. 
+Look around on our public repositories.
+
+## Using FontFlex in a Project
+FontFlex (web) is currenly going under a lot of developement. There is a lot of
+UI changes, and Markdown updates! We hope to see FontFlex in some projects!
+
+
 
 <!--
 
